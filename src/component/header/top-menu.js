@@ -11,7 +11,7 @@ const TopMenu = () => {
               <li><a href="#skills" className="scroll-link">Skills</a></li>
               <li><a href="#experience" className="scroll-link">Experience</a></li>
               <li><a href="#portfolio" className="scroll-link">Portfolio</a></li>
-              <li><a href="#contactUs" className="scroll-link">Contact Us</a></li>
+              <li><a href="#contactUs" className="scroll-link">ContactUs</a></li>
     </ul>
     
   )
