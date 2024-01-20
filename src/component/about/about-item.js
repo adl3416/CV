@@ -1,4 +1,4 @@
-import React from 'react'   // importlar
+import React from 'react'   // 
 
 const AboutItem = (props) => {
   return (
