@@ -15,7 +15,8 @@ const Header = () => {
               data-toggle="collapse"
               data-target="#main-nav"
             >
-              <span className="sr-only">Toggle navigation</span>
+              <span className="sr-only">Togglenavigation</span>
+             
               <span className="icon-bar"></span>
               <span className="icon-bar"></span>
               <span className="icon-bar"></span>
