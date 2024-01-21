@@ -11,7 +11,7 @@ const Header = () => {
             <button
               type="button"
               id="nav-toggle"
-              className="navbar-toggle"
+              className="navbar-toggle" //
               data-toggle="collapse"
               data-target="#main-nav"
             >
