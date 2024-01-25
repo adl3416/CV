@@ -11,8 +11,8 @@ const About = () => {
 
         <div className="row">
             <AboutItem title="Responsive Design" icon="desktop" desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum erat et neque tincidunt volutpat. Cras eget augue id dui varius pretium."/>
-            <AboutItem title="HTML5/CSS3 Dev" icon="css3" desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum erat et neque tincidunt volutpat. Cras eget augue id dui varius pretium."/>
-            <AboutItem title="JavaScript jQuery" icon="lightbulb-o"/>        
+            <AboutItem title="HTML5/CSS3 Developer" icon="css3" desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum erat et neque tincidunt volutpat. Cras eget augue id dui varius pretium."/>
+            <AboutItem title="JavaScript " icon="lightbulb-o"/>        
         </div>
     </div>
 </section>
