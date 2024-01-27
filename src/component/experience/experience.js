@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Experience = (props) => {  //
+const Experience = (props) => {  
   return (
     <div className={`${props.position=="right" && props.alone && 'col-sm-offset-6'} col-sm-6  timeline-item`}>
     <div className="row">
