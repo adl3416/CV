@@ -9,7 +9,7 @@ const Experience = (props) => {
                 <ul className="timeline-panel-ul">
                     <li><span className="importo">{props.title}</span></li>
                     <li><span className="causale">{props.desc} </span> </li>
-                    
+                    <li><p><small className="text-muted"> {props.sDate} - {props.eDate}</small></p> </li>
                 </ul>
             </div>
 
