@@ -5,7 +5,7 @@ const Intro = () => {
     <section id="introText">
     <div className="container">
         <div className="text-center">
-        <h1>I create beautiful responsive websites, Yes I am a UX geek</h1>
+        <h1>I create beautiful responsive websites,Yes I am a UX geek</h1>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
             Suspendisse interdum erat et neque tincidunt volutpat. 

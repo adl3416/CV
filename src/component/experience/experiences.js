@@ -70,7 +70,7 @@ const Experiences = () => {
 
           </div>
           <div className="row timeline-movement">
-           
+            <TimelineBatch month="Jan" year="2010" />
 
 
             <Experience
