@@ -72,6 +72,7 @@ const Experiences = () => {
           <div className="row timeline-movement">
             <TimelineBatch month="Jan" year="2010" />
 
+
             <Experience
               title="Mussum ipsum cacilds"
               desc="Lorem ipsum dolor sit amet, consectetur adipiscing
@@ -85,10 +86,10 @@ const Experiences = () => {
 
 <Experience
               title="Mussum ipsum cacilds"
-              desc="Lorem ipsum dolor sit amet, consectetur adipiscing
+              desc="Lorem ipsum dolor sit amet,
                           elit."
-              sDate="10/03/2013"
-              eDate="18/02/2014"
+              sDate="10/03/2023"
+              eDate="18/02/2024"
               position="left"
               alone = {true}
             />
