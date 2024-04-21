@@ -80,7 +80,7 @@ const Experiences = () => {
               sDate="11/01/2010"
               eDate="10/03/2023"
               position="right"
-              alone = {true}
+              alone = {false}
             />
 
 
